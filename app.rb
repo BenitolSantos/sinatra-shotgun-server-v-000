@@ -8,7 +8,8 @@ class App < Sinatra::Base
     #copy paste the ip address
     "Started my server using shotgun!"
     #it takes a while to load shotgun
-    #shotgun is different than rackup
+    #shotgun is different than rackup and updates realtime.
+    #type shotgun in terminal instead or rackup
   end
 
 end
